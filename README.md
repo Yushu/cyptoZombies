@@ -1,5 +1,5 @@
 # CryptoZombies
-[Loom Network] CryptoZombies is a free, interactive code school that teaches you to build games on Ethereum
+CryptoZombies is a free, interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game on Ethereum.
 
 Grab the course at [https://cryptozombies.io/course/](https://cryptozombies.io/course/)
 
