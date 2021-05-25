@@ -34,12 +34,3 @@ We would also want to grey out the user's zombies whose cooldown period had not 
 * We'd probably want to add an Attack event to our smart contract with the user's address as an indexed property, as discussed in the last chapter. This would allow us to build real-time notifications — we could show the user a popup alert when one of their zombies was attacked, so they could view the user/zombie who attacked them and retaliate;
 * We would probably also want to implement some sort of front-end caching layer so we aren't always slamming Infura with requests for the same data. (Our current implementation of displayZombies calls getZombieDetails for every single zombie every time we refresh the interface — but realistically we only need to call this for the new zombie that's been added to our army);
 * A real-time chat room so you could trash talk other players as you crush their zombie army? Yes plz;
-
-Here's a permalink to my zombie(s):
-
-* https://share.cryptozombies.io/en/lesson/1/share/KΞiTH_McCartney?id=Z2l0aHVifDI1Mjg2NzU1
-* https://share.cryptozombies.io/en/lesson/2/share/K%CE%9EiTH_McCartney?id=Z2l0aHVifDI1Mjg2NzU1
-* https://share.cryptozombies.io/en/lesson/3/share/K%CE%9EiTH_McCartney?id=Z2l0aHVifDI1Mjg2NzU1; I was watching Tokyo Drift and named my zombie after the lead character; the lead character's name also happened to coincide with a very traditional Irish name where today also so happens to be St. Patrick's day! This traditional name spelled differently also happens to be name of the lead character from a certain zombie movie...
-* https://share.cryptozombies.io/en/lesson/4/share/K%CE%9EiTH_McCartney?id=WyJnaXRodWJ8MjUyODY3NTUiLDEsMTRd
-* https://share.cryptozombies.io/en/lesson/5/share/H4XF13LD_MORRIS_%F0%9F%92%AF%F0%9F%92%AF%F0%9F%98%8E%F0%9F%92%AF%F0%9F%92%AF?id=Z2l0aHVifDI1Mjg2NzU1
-* https://share.cryptozombies.io/en/lesson/6/share/The_Phantom_of_Web3?id=Z2l0aHVifDI1Mjg2NzU1
