@@ -33,4 +33,13 @@ We would also want to grey out the user's zombies whose cooldown period had not 
 * For new users, we should display a welcome message with a prompt to create the first zombie in their army, which calls createRandomZombie();
 * We'd probably want to add an Attack event to our smart contract with the user's address as an indexed property, as discussed in the last chapter. This would allow us to build real-time notifications — we could show the user a popup alert when one of their zombies was attacked, so they could view the user/zombie who attacked them and retaliate;
 * We would probably also want to implement some sort of front-end caching layer so we aren't always slamming Infura with requests for the same data. (Our current implementation of displayZombies calls getZombieDetails for every single zombie every time we refresh the interface — but realistically we only need to call this for the new zombie that's been added to our army);
-* A real-time chat room so you could trash talk other players as you crush their zombie army? Yes please;
+* A real-time chat room so you could trash talk other players as you crush their zombie army? Yes please.
+
+Here's a permalink to my zombie(s):
+
+* https://share.cryptozombies.io/en/lesson/1/share/Ayush
+* https://share.cryptozombies.io/en/lesson/2/share/Ayush
+* https://share.cryptozombies.io/en/lesson/3/share/Ayush
+* https://share.cryptozombies.io/en/lesson/4/share/Ayush?id=W251bGwsMSwxNF0=
+* https://share.cryptozombies.io/en/lesson/5/share/H4XF13LD_MORRIS_%F0%9F%92%AF%F0%9F%92%AF%F0%9F%98%8E%F0%9F%92%AF%F0%9F%92%AF
+* https://share.cryptozombies.io/en/lesson/6/share/The_Phantom_of_Web3
